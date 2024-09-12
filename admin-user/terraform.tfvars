@@ -1,0 +1,5 @@
+iam_user_name = "organisation-admin-user"
+iam_user_path = "/"
+admin_access_policy_arn = "arn:aws:iam::aws:policy/AdministratorAccess"
+iam_policy_name = "AssumeOrganizationAccountAccessRole"
+iam_policy_description = "Policy for assuming OrganizationAccountAccessRole"
