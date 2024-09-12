@@ -1,0 +1,5 @@
+permission_set_name = "AdminPermissionSet"
+permission_set_session_duration = "PT12H"
+ssoadmin_managed_policy_attachment_admin_policy_arn = "arn:aws:iam::aws:policy/AdministratorAccess"
+identitystore_group_display_name = "AdminGroup"
+identitystore_group_description = "Admin group for organization access"
